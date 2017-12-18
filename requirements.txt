@@ -1,0 +1,8 @@
+
+protobuf==3.1.0.post1
+
+# this adds sqlalchemy, pytz and others
+pygtfs==0.1.3
+
+# for what?
+# gtfs-realtime-bindings==0.0.4
