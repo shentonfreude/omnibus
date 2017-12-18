@@ -33,3 +33,7 @@ Arlington Transportation (ART)
 ==============================
 
 https://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/
+
+Examples of feed data for ART (and others), good for understanding the data shape:
+
+https://transitfeeds.com/p/arlington-transit/149
