@@ -16,15 +16,20 @@ is. We've got several lines and stops nearby; we might want to hear
 all of them:
 
 Q: Alexa, ask Omnibus next arrival.
+
 A: ART 55 to Rosslyn in 3 minutes; ART 55 to East Falls Church in 2 minutes.
    WMATA 3Y to Foggy Bottom in 8 minutes; ...
 
 Or we should be able to ask for specific routes and/or directions:
 
 Q: Alexa, ask Omnibus ART 55
+
 A: ART 55 to Rosslyn in 3 minutes; ART 55 to East Falls Church in 2 minutes.
 
+or:
+
 Q: Alexa, ask Omnibus ART 55 to East Falls Church
+
 A: ART 55 to East Falls Church in 2 minutes.
 
 Angular Web App

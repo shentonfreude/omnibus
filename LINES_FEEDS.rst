@@ -24,4 +24,12 @@ https://github.com/OneBusAway
 https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide
 https://github.com/OneBusAway/onebusaway/wiki/GTFS-Realtime-Resources
 
-Could be amusing to plot the location of buses over the DC region using Cesium. 
+Could be amusing to plot the location of buses over the DC region using Cesium.
+
+Google Transit API Sample in Python:
+https://developers.google.com/transit/gtfs-realtime/examples/python-sample
+
+Arlington Transportation (ART)
+==============================
+
+https://www.arlingtontransit.com/pages/rider-tools/tools-for-developers/
